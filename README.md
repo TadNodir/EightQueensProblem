@@ -1,5 +1,7 @@
 ## 8 Queens Problem
 
+![grafik](https://github.com/TadNodir/EightQueensProblem/assets/74507609/b2308da8-3432-4b7c-8c6e-ff983f097fa2)
+
 This repository contains solutions for the 8 Queens problem implemented in different approaches.
 
 ### Class for Encoding the 8 Queens Problem
